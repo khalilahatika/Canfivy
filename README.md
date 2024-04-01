@@ -1,2 +1,7 @@
 # Canfivy
-Canvify merupakan sebuah aplikasi yang dirancang untuk mengelola karya seni yang dikhususkan untuk karya digital. Sehingga memudahkan seniman unutk mengakses dan meninjau karya seni mereka tenpa harus mencari-cari di berbagai file terpisah. Dengan menggunakan Canfivy, seniman dapat dengan mudah melihat semua karya seni mereka dalam satu tempat.
+Canvify merupakan sebuah aplikasi yang dirancang untuk seorang seniman. Yang mana terdapat fitur-fitur yang dapat memudahkan seniman dalam membuat karyanya yitu fitur convert pixel ke centimeter maupun sebaliknya. Karena biasanya bagi seniman digital hal tersebut sangat penting. Selain itu terdapat juga fitur rekomendasi pallete warna.
+
+
+
+
+
